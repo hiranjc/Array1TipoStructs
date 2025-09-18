@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\bin\Debug\net8.0\Array1TipoStructs.exe
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\bin\Debug\net8.0\Array1TipoStructs.deps.json
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\bin\Debug\net8.0\Array1TipoStructs.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\bin\Debug\net8.0\Array1TipoStructs.dll
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\bin\Debug\net8.0\Array1TipoStructs.pdb
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.dll
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\refint\Array1TipoStructs.dll
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.pdb
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\Array1TipoStructs.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\Array1TipoStructs\obj\Debug\net8.0\ref\Array1TipoStructs.dll
